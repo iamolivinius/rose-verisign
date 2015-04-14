@@ -1,0 +1,16 @@
+{
+  "name": "rose-verisign",
+  "version": "0.0.1",
+  "description": "Command line tool to verify and sign ROSE repository files",
+  "main": "sign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Hoffmann",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "escodegen": "^1.6.1",
+    "esprima": "^2.1.0"
+  }
+}
